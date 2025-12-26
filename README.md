@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Recursion
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->

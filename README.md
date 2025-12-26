@@ -1,5 +1,63 @@
 # Aditya-Leetcode_solved-questions
-A collection of LeetCode questions to ace the coding interview! 
+# 🚀 LeetCode Java Solutions
+
+A curated collection of **100+ LeetCode problems solved in Java**, focused on writing **clean, optimized, and interview-ready code**.
+
+This repository represents my journey of mastering **Data Structures & Algorithms** and building a strong foundation for **Software Development and DevOps roles**.
+
+---
+
+## 📌 What this repository contains
+
+- ✅ Arrays & Strings  
+- ✅ Linked List, Stack, Queue  
+- ✅ Binary Trees & Binary Search Trees  
+- ✅ Graphs (BFS, DFS, Union Find)  
+- ✅ Dynamic Programming  
+- ✅ Greedy & Sliding Window  
+- ✅ Heap, HashMap, Two Pointers  
+
+Each solution is written with:
+- 💡 Clear logic  
+- ⚡ Optimal time & space complexity  
+- 📘 Interview-friendly approach  
+
+---
+
+## 🛠 Language & Tools
+
+- **Java**
+- **Git & GitHub**
+- **LeetCode**
+
+---
+
+## 📈 Progress
+
+- 🔥 Solved **100+ LeetCode Problems**
+- 🚀 Continuously adding new optimized solutions
+
+---
+
+## 🧑‍💻 Why this repository?
+
+This repository is part of my preparation for:
+- **Software Developer Engineer (SDE)**
+- **Backend Developer**
+- **DevOps Engineer**
+
+I focus not only on solving problems, but also on writing **maintainable, readable, and production-quality code**.
+
+---
+
+## 📬 Connect with me
+
+- **GitHub**: https://github.com/04adityakumar10a-art  
+- **LeetCode**: https://leetcode.com/aditya2005op  
+
+---
+
+⭐ If you find this repository useful, feel free to **star** it!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

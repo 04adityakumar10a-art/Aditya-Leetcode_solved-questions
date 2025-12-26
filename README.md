@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |

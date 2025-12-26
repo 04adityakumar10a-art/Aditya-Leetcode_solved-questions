@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
+| [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

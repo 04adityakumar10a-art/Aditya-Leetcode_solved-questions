@@ -18,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Array
 |  |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

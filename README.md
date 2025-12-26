@@ -84,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |

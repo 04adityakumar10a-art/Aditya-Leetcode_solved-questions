@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
@@ -131,8 +133,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0134-gas-station](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,9 +266,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
-| [0134-gas-station](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0134-gas-station) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

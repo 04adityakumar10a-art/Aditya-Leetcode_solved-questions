@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0058-length-of-last-word) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |

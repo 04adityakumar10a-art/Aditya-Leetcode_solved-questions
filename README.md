@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Array
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |

@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |

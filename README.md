@@ -7,7 +7,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
-| [0145-binary-tree-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
@@ -15,7 +14,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
-| [0145-binary-tree-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -23,7 +21,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
-| [0145-binary-tree-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Hash Table
@@ -39,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
@@ -181,7 +180,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
-| [0145-binary-tree-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
@@ -212,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -220,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |

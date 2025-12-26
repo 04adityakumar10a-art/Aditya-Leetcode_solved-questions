@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Matrix
 |  |

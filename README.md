@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
+| [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

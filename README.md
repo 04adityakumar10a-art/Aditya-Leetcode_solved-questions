@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0155-min-stack) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |

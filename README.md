@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0138-copy-list-with-random-pointer) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0075-sort-colors) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0075-sort-colors) |
 ## Matrix
 |  |

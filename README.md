@@ -91,7 +91,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0876-middle-of-the-linked-list) |
-| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -136,7 +135,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
-| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
 |  |
@@ -188,7 +186,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
-| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Monotonic Stack
 |  |
@@ -242,7 +239,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
-| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Breadth-First Search
 |  |
 | ------- |

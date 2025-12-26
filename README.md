@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

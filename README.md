@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 ## Breadth-First Search
 |  |

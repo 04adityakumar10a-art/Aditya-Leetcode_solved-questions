@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |

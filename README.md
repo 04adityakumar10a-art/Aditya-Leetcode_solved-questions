@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Stack
 |  |

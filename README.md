@@ -69,6 +69,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0110-balanced-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -82,6 +83,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0144-binary-tree-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -93,6 +95,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0110-balanced-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -380,6 +383,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree

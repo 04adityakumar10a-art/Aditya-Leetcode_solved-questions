@@ -1,61 +1,55 @@
-
 class Solution {
-
-    char[] digits;
-    Long[][][][][][] memo;
-
+    long[][] a;
     public long countBalanced(long low, long high) {
-        return countUpTo(high) - countUpTo(low - 1);
+        a = new long[200][20];
+        for (int i=0; i<200; i++)
+            for (int j=0; j<20; j++)
+                a[i][j] = -1;
+        return count(high) - count(low-1);
     }
 
-    private long countUpTo(long x) {
-        if (x <= 0) return 0;
-        digits = String.valueOf(x).toCharArray();
-        int n = digits.length;
-
-        memo = new Long[n][401][2][2][2][18];
-        return dfs(0, 200, 0, 1, 0, 0);
-    }
-
-    private long dfs(
-        int pos,
-        int diff,
-        int parity,
-        int tight,
-        int started,
-        int length
-    ) {
-        if (pos == digits.length) {
-            return (started == 1 && length >= 2 && diff == 200) ? 1 : 0;
+    private long count(long z) {
+        if (z == 0)
+            return 1;
+        long ans = 0;
+        int t = 0;
+        long x = z;
+        long y = 1;
+        while (x > 0) {
+            t++;
+            x /= 10;
+            y *= 10;
         }
-
-        if (memo[pos][diff][parity][tight][started][length] != null) {
-            return memo[pos][diff][parity][tight][started][length];
-        }
-
-        int limit = tight == 1 ? digits[pos] - '0' : 9;
-        long ways = 0;
-
-        for (int d = 0; d <= limit; d++) {
-            int ntight = (tight == 1 && d == limit) ? 1 : 0;
-
-            if (started == 0 && d == 0) {
-                ways += dfs(pos + 1, diff, parity, ntight, 0, 0);
-            } else {
-                int newDiff = diff + ((parity == 0) ? d : -d);
-                if (newDiff >= 0 && newDiff <= 400) {
-                    ways += dfs(
-                        pos + 1,
-                        newDiff,
-                        parity ^ 1,
-                        ntight,
-                        1,
-                        length + 1
-                    );
-                }
+        y /= 10;
+        t--;
+        int p = 0;
+        long r = y - 1;
+        while (r <= z) {
+            //System.out.println(p + " " + t);
+            ans += calc(p, t);
+            p++;
+            while (t > 0 && r + y > z) {
+                y /= 10;
+                p = -p;
+                t--;
             }
+            r += y;
+            //System.out.println(p + " " + r + " " + t + " " + ans);
         }
+        return ans;
+    }
 
-        return memo[pos][diff][parity][tight][started][length] = ways;
+    private long calc(int d, int x) {
+        int d0 = d + 100;
+        if (a[d0][x] != -1)
+            return a[d0][x];
+        if (x == 0) {
+            a[d0][x] = d == 0 ? 1 : 0;
+            return a[d0][x];
+        }
+        a[d0][x] = 0;
+        for (int i=0; i<=9; i++)
+            a[d0][x] += calc(i - d, x - 1);
+        return a[d0][x];
     }
 }

@@ -14,31 +14,19 @@
  * }
  */
 class Solution {
-   
-    
+
+    List<Integer> res = new ArrayList<>();
     public int findBottomLeftValue(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        if (root == null) return result.get(result.size()-1);
+        dfs(root, 0);
+        return res.get(res.size() - 1);
+    }
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
+    void dfs(TreeNode root, int level){
+        if(root == null) return;
 
-        while (!q.isEmpty()) {
-            int size = q.size();
+        if(level == res.size()) res.add(root.val);
 
-            for (int i = 0; i < size; i++) {
-                TreeNode node = q.poll();
-
-                // if this is the last node of this level
-                if (i == size - 1) {
-                    result.add(node.val);
-                }
-
-                
-                if (node.right != null) q.add(node.right);
-                if (node.left != null) q.add(node.left);
-            }
-        }
-        return result.get(result.size()-1);
+        dfs(root.left, level+1);
+        dfs(root.right, level+1);
     }
 }

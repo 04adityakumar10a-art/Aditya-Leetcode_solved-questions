@@ -76,6 +76,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -93,6 +94,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -109,6 +111,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -404,6 +407,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Simulation
 |  |
 | ------- |

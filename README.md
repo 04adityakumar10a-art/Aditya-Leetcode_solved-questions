@@ -281,6 +281,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
@@ -369,6 +370,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
 | ------- |
@@ -443,6 +445,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |

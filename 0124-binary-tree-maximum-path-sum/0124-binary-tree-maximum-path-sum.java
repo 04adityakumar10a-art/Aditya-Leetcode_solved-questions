@@ -1,40 +1,24 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    int maxSum = Integer.MIN_VALUE;
+    int max = Integer.MIN_VALUE;
 
     public int maxPathSum(TreeNode root) {
-        dfs(root);
-        return maxSum;
+        helper(root);
+        return max;
     }
 
-    private int dfs(TreeNode node) {
-        if (node == null) return 0;
+    private int helper(TreeNode root) {
+        if (root == null) return 0;
 
-        // Ignore negative paths
-        int left = Math.max(0, dfs(node.left));
-        int right = Math.max(0, dfs(node.right));
+        int left = Math.max(0, helper(root.left));
+        int right = Math.max(0, helper(root.right));
 
-        // Max path passing through this node
-        int current = node.val + left + right;
+        // path passing THROUGH this node
+        int currentPath = root.val + left + right;
 
-        // Update global answer
-        maxSum = Math.max(maxSum, current);
+        // update global maximum
+        max = Math.max(max, currentPath);
 
-        // Return best single branch
-        return node.val + Math.max(left, right);
+        // return path going UP (only one side allowed)
+        return root.val + Math.max(left, right);
     }
 }

@@ -258,6 +258,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -354,6 +355,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Monotonic Stack
@@ -391,6 +393,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |

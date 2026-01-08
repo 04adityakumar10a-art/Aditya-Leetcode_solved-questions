@@ -70,6 +70,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -117,6 +118,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -278,6 +280,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0088-merge-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
@@ -399,6 +402,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0004-median-of-two-sorted-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
@@ -450,6 +454,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |

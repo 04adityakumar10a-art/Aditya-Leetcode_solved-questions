@@ -64,6 +64,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -91,6 +92,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0110-balanced-binary-tree) |
@@ -112,6 +114,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -454,6 +457,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0703-kth-largest-element-in-a-stream) |

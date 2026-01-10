@@ -14,29 +14,36 @@
  * }
  */
 class Solution {
-    public void inorder(ArrayList<Integer> ls,TreeNode root)
-    {
-        if(root==null) return ;
-        inorder(ls,root.left);
-        ls.add(root.val);
-        inorder(ls,root.right);
-    }
-    public TreeNode maketree(ArrayList<Integer> ls,int start,int end)
-    {
-        if(start>end) return null;
-        int mid=(start+end)/2;
-        TreeNode node = new TreeNode(ls.get(mid));
-        node.left=maketree(ls,start,mid-1);
-        node.right=maketree(ls,mid+1,end);
-        return node;
-    }
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root==null) return null;
-        ArrayList<Integer> ls= new ArrayList<>();
-        inorder(ls,root);
-        if(ls.contains(key))
-        {ls.remove(Integer.valueOf(key));
-        return maketree(ls,0,ls.size()-1);}
-        else return root;
+        if (root == null) return null;
+
+        if (key < root.val) {
+            root.left = deleteNode(root.left, key);
+        } 
+        else if (key > root.val) {
+            root.right = deleteNode(root.right, key);
+        } 
+        else {
+            // Node found
+
+            // Case 1: no left child
+            if (root.left == null) return root.right;
+
+            // Case 2: no right child
+            if (root.right == null) return root.left;
+
+            // Case 3: two children
+            TreeNode successor = getMin(root.right);
+            root.val = successor.val;
+            root.right = deleteNode(root.right, successor.val);
+        }
+        return root;
+    }
+
+    private TreeNode getMin(TreeNode node) {
+        while (node.left != null) {
+            node = node.left;
+        }
+        return node;
     }
 }

@@ -84,6 +84,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -114,6 +115,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -147,6 +149,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0230-kth-smallest-element-in-a-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -200,6 +203,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0125-valid-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
@@ -380,6 +384,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0173-binary-search-tree-iterator](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -478,6 +483,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0112-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |

@@ -97,6 +97,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +189,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
 | [0840-magic-squares-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -398,6 +402,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Monotonic Stack
 |  |

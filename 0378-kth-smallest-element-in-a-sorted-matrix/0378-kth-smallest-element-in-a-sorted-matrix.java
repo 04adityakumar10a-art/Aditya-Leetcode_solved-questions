@@ -1,21 +1,34 @@
 class Solution {
     public int kthSmallest(int[][] matrix, int k) {
-        int rows = matrix.length;
-        int cols= matrix[0].length;
-         PriorityQueue<Integer> minheap = new PriorityQueue<>();
-         int total = rows*cols;
-        for(int i =0 ; i<rows ;i++)
-        {
-            for(int j= 0 ;j<cols ; j++)
-            {  if(minheap.size()<total-k+1)
-               minheap.add(matrix[i][j]);
-               else 
-               {
-                minheap.add(matrix[i][j]);
-                minheap.poll();
-               }
+        int n = matrix.length;
+        int low = matrix[0][0];
+        int high = matrix[n-1][n-1];
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+
+            if (countLessEqual(matrix, mid) < k) {
+                low = mid + 1;
+            } else {
+                high = mid;
             }
         }
-        return minheap.peek();
+        return low;
+    }
+
+    private int countLessEqual(int[][] matrix, int mid) {
+        int n = matrix.length;
+        int i = n - 1, j = 0;
+        int count = 0;
+
+        while (i >= 0 && j < n) {
+            if (matrix[i][j] <= mid) {
+                count += i + 1;
+                j++;
+            } else {
+                i--;
+            }
+        }
+        return count;
     }
 }

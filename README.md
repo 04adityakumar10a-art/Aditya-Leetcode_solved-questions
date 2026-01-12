@@ -183,6 +183,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0142-linked-list-cycle-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -320,6 +321,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0503-next-greater-element-ii) |
@@ -416,6 +418,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -427,6 +430,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0088-merge-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
@@ -446,6 +450,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -467,6 +472,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
@@ -542,4 +548,12 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

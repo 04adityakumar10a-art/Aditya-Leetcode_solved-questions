@@ -179,6 +179,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
@@ -207,6 +208,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -323,6 +325,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
@@ -348,6 +351,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -588,4 +592,9 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

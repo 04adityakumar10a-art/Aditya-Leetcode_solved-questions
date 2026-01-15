@@ -11,8 +11,7 @@ class Solution {
              { longesth=Math.max(longesth,hcount);
                hcount =0;
             }
-             
-         } longesth = Math.max(longesth, hcount);
+         }longesth=Math.max(longesth,hcount);
          for(int i =0;i<vBars.length-1;i++)
          {
             if((vBars[i]+1)==vBars[i+1]) vcount++;
@@ -20,9 +19,9 @@ class Solution {
              { longestv=Math.max(longestv,vcount);
                vcount =0;
             }
-         } 
-         longestv = Math.max(longestv, vcount);
-         int ans = Math.min(longesth+1,longestv+1) +1;
+         }longestv=Math.max(longestv,vcount);
+         int ans = Math.min(longesth,longestv);
+         ans=ans+2;
          return ans*ans;
     }
 }

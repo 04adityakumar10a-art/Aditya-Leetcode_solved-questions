@@ -271,6 +271,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |

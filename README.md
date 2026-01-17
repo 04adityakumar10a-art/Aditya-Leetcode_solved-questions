@@ -248,6 +248,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0027-remove-element) |
@@ -307,6 +308,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0004-median-of-two-sorted-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0027-remove-element) |
@@ -438,6 +440,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0056-merge-intervals) |

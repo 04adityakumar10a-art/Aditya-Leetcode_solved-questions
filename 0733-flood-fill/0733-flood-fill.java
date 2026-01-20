@@ -10,7 +10,7 @@ class Solution {
 
     public static void dfs(int[][] image, int sr, int sc, int orgclr, int color) {
 
-        if (orgclr == color) return;   // prevent infinite loop
+           // prevent infinite loop
 
         Stack<Pair> st = new Stack<>();
         int m = image.length;
@@ -39,6 +39,7 @@ class Solution {
 
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int orgclr = image[sr][sc];
+        if (orgclr == color) return image;
         dfs(image, sr, sc, orgclr, color);
         return image;
     }

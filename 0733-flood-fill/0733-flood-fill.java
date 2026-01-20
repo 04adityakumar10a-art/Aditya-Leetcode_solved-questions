@@ -1,28 +1,26 @@
 class Solution {
+    public int[][] floodFill(int[][] mat, int sr, int sc, int color) {
 
-    public void dfs(int[][] image, int i, int j, int orgclr, int color) {
-
-        int m = image.length;
-        int n = image[0].length;
-
-        // boundary + color check
-        if (i < 0 || j < 0 || i >= m || j >= n) return;
-        if (image[i][j] != orgclr) return;
-
-        // mark visited
-        image[i][j] = color;
-
-        // explore neighbors
-        dfs(image, i, j - 1, orgclr, color); // left
-        dfs(image, i, j + 1, orgclr, color); // right
-        dfs(image, i - 1, j, orgclr, color); // up
-        dfs(image, i + 1, j, orgclr, color); // down
+        int original = mat[sr][sc];
+        if (original == color){
+            return mat;
+        }
+        dfs(mat, sr, sc, original, color);
+        return mat;
     }
 
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int orgclr = image[sr][sc];
-        if (orgclr == color) return image; // prevent infinite recursion
-        dfs(image, sr, sc, orgclr, color);
-        return image;
+    void dfs(int[][] mat, int i, int j, int original, int color) {
+        if (i < 0 || j < 0 || i >= mat.length || j >= mat[0].length)
+            return;
+
+        if (mat[i][j] != original)
+            return;
+
+        mat[i][j] = color;
+
+        dfs(mat,i+1,j,original,color);
+        dfs(mat,i-1,j,original,color);
+        dfs(mat,i,j+1,original,color);
+        dfs(mat,i,j-1,original,color);
     }
 }

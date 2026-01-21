@@ -111,6 +111,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -179,6 +180,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0141-linked-list-cycle) |
@@ -531,6 +533,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -614,4 +617,8 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->

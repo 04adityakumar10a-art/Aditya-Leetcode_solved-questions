@@ -24,21 +24,21 @@ class Solution {
         if (node == null) return null;
 
         HashMap<Node, Node> mp = new HashMap<>();
-        Queue<Node> q = new LinkedList<>();
+        Stack<Node> q = new Stack<>();
 
         // create clone of start node
         mp.put(node, new Node(node.val));
-        q.add(node);
+        q.push(node);
 
         while (!q.isEmpty()) {
-            Node curr = q.poll();
+            Node curr = q.pop();
 
             for (Node neb : curr.neighbors) {
 
                 // if neighbor not cloned yet
                 if (!mp.containsKey(neb)) {
                     mp.put(neb, new Node(neb.val));
-                    q.add(neb);
+                    q.push(neb);
                 }
 
                 // add cloned neighbor

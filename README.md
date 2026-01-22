@@ -124,6 +124,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -538,6 +539,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -621,4 +623,9 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->

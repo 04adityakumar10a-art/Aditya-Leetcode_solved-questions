@@ -1,49 +1,59 @@
+import java.util.*;
+
 class Solution {
-    public static boolean containsCycle(char[][] grid) {
-        boolean[][] visited = new boolean[grid.length][grid[0].length];
 
-        for(int i = 0; i < grid.length; i++) {
-            for(int j = 0; j < grid[0].length; j++) {
-                if(!visited[i][j]) {
-                    if(dfs(grid, visited, i, j, -1, -1)) return true;
-                }
-            }
+    static class State {
+        int r, c, pr, pc;
+        State(int r, int c, int pr, int pc) {
+            this.r = r;
+            this.c = c;
+            this.pr = pr;
+            this.pc = pc;
         }
-
-        return false;
     }
 
-    static boolean dfs(char[][] grid, boolean[][] visited, int row, int col, int prow, int pcol) {
-        char ch = grid[row][col];
-        visited[row][col] = true;
-       //up
-        if(row > 0 && grid[row - 1][col] == ch) {
-            if(!visited[row - 1][col]) {
-                if(dfs(grid, visited, row - 1, col, row, col)) return true;
+    public boolean containsCycle(char[][] grid) {
+        int m = grid.length, n = grid[0].length;
+        boolean[][] visited = new boolean[m][n];
+        int[][] dirs = {{0,1},{1,0},{0,-1},{-1,0}};
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                if (visited[i][j]) continue;
+
+                Queue<State> q = new LinkedList<>();
+                q.offer(new State(i, j, -1, -1));
+                visited[i][j] = true;
+
+                while (!q.isEmpty()) {
+                    State cur = q.poll();
+
+                    for (int[] d : dirs) {
+                        int nr = cur.r + d[0];
+                        int nc = cur.c + d[1];
+
+                        // boundary check
+                        if (nr < 0 || nc < 0 || nr >= m || nc >= n)
+                            continue;
+
+                        // same character only
+                        if (grid[nr][nc] != grid[cur.r][cur.c])
+                            continue;
+
+                        // skip parent
+                        if (nr == cur.pr && nc == cur.pc)
+                            continue;
+
+                        // visited again → cycle
+                        if (visited[nr][nc])
+                            return true;
+
+                        visited[nr][nc] = true;
+                        q.offer(new State(nr, nc, cur.r, cur.c));
+                    }
+                }
             }
-            else if(row - 1 != prow || col != pcol) return true;
-        }
-         //down
-        if(row < grid.length - 1 && grid[row + 1][col] == ch) {
-            if(!visited[row + 1][col]) {
-                if(dfs(grid, visited, row + 1, col, row, col)) return true;
-            }
-            else if(row + 1 != prow || col != pcol) return true;
-        }
-        //left
-        if(col > 0 && grid[row][col - 1] == ch) {
-            if(!visited[row][col - 1]) {
-                if(dfs(grid, visited, row, col - 1, row, col)) return true;
-            }
-            else if(row != prow || col - 1 != pcol) return true;
-        }
-       
-        //right
-        if(col < grid[0].length - 1 && grid[row][col + 1] == ch) {
-            if(!visited[row][col + 1]) {
-                if(dfs(grid, visited, row, col + 1, row, col)) return true;
-            }
-            else if(row != prow || col + 1 != pcol) return true;
         }
         return false;
     }

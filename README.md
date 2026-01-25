@@ -232,6 +232,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
 | ------- |
@@ -354,6 +355,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -466,6 +468,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0912-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix

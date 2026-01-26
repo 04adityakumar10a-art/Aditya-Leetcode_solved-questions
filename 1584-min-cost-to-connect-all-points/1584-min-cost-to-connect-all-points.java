@@ -45,20 +45,17 @@ class Solution {
 
         int n = points.length;
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
-
         for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
-
-        for (int i = 0; i < n; i++) {
+            ArrayList<Pair> ls= new ArrayList<>();
             for (int j = 0; j < n; j++) {
                 if (i == j) continue;
 
                 int distance = Math.abs(points[i][0] - points[j][0])
                              + Math.abs(points[i][1] - points[j][1]);
 
-                adj.get(i).add(new Pair(j, distance));
+                ls.add(new Pair(j, distance));
             }
+            adj.add(ls);
         }
 
         return primsMST(n, adj);

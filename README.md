@@ -526,6 +526,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0912-sort-an-array) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -639,6 +640,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
 | ------- |
@@ -653,4 +655,8 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->

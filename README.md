@@ -128,6 +128,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -560,6 +561,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -645,6 +647,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -652,6 +655,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort

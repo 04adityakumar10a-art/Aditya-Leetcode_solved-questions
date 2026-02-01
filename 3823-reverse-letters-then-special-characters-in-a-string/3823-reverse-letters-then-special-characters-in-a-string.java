@@ -1,26 +1,37 @@
 class Solution {
     public String reverseByType(String s) {
-        Deque<Character> letters = new ArrayDeque<>();
-        Deque<Character> others = new ArrayDeque<>();
+        char[] arr = s.toCharArray();
+        int n = arr.length;
 
-        // Push characters by type
-        for (char c : s.toCharArray()) {
-            if (Character.isLetter(c))
-                letters.push(c);
-            else
-                others.push(c);
+        // 1️⃣ Reverse letters
+        int l = 0, r = n - 1;
+        while (l < r) {
+            if (!Character.isLetter(arr[l])) l++;
+            else if (!Character.isLetter(arr[r])) r--;
+            else {
+                char temp = arr[l];
+                arr[l] = arr[r];
+                arr[r] = temp;
+                l++;
+                r--;
+            }
         }
 
-        StringBuilder ans = new StringBuilder();
-
-        // Rebuild string
-        for (char c : s.toCharArray()) {
-            if (Character.isLetter(c))
-                ans.append(letters.pop());
-            else
-                ans.append(others.pop());
+        // 2️⃣ Reverse special characters
+        l = 0;
+        r = n - 1;
+        while (l < r) {
+            if (Character.isLetter(arr[l])) l++;
+            else if (Character.isLetter(arr[r])) r--;
+            else {
+                char temp = arr[l];
+                arr[l] = arr[r];
+                arr[r] = temp;
+                l++;
+                r--;
+            }
         }
 
-        return ans.toString();
+        return new String(arr);
     }
 }

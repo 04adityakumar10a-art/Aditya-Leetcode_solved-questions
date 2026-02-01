@@ -1,19 +1,26 @@
 class Solution {
     public String reverseByType(String s) {
-      Stack<Character> ch = new Stack<>();
-      Stack<Character> spl = new Stack<>();
-      String ans ="";
-      for(int i=0;i<s.length();i++)
-      {
-        if(s.charAt(i)>='a' && s.charAt(i)<='z') ch.push(s.charAt(i));
-        else spl.push(s.charAt(i));
-      }  
-      for(int i=0;i<s.length();i++)
-      {
-        if(s.charAt(i)>='a' && s.charAt(i)<='z')
-        { ans=ans+ch.pop();}
-        else ans=ans+spl.pop();
-      }
-      return ans;  
+        Deque<Character> letters = new ArrayDeque<>();
+        Deque<Character> others = new ArrayDeque<>();
+
+        // Push characters by type
+        for (char c : s.toCharArray()) {
+            if (Character.isLetter(c))
+                letters.push(c);
+            else
+                others.push(c);
+        }
+
+        StringBuilder ans = new StringBuilder();
+
+        // Rebuild string
+        for (char c : s.toCharArray()) {
+            if (Character.isLetter(c))
+                ans.append(letters.pop());
+            else
+                ans.append(others.pop());
+        }
+
+        return ans.toString();
     }
 }

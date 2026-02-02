@@ -1,50 +1,44 @@
 class Solution {
-    public int[] toposort(int indegree[],ArrayList<ArrayList<Integer>> adj,int n)
-    {
-        ArrayList<Integer> ans = new ArrayList<>();
-        Queue<Integer> q= new LinkedList<>();
-        for(int i =0;i<n;i++)
-        {
-            if(indegree[i]==0) q.add(i);
+
+    public int[] toposort(int[] indegree, ArrayList<ArrayList<Integer>> adj, int n) {
+        Queue<Integer> q = new LinkedList<>();
+        int[] ans = new int[n];
+        int idx = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0)
+                q.add(i);
         }
-        while(!q.isEmpty())
-        {
+
+        while (!q.isEmpty()) {
             int node = q.poll();
-            ans.add(node);
-            ArrayList<Integer> nbrs = adj.get(node);
-            for(int nbr : nbrs)
-            {   
+            ans[idx++] = node;
+
+            for (int nbr : adj.get(node)) {
                 indegree[nbr]--;
-                if(indegree[nbr]==0) q.add(nbr);
+                if (indegree[nbr] == 0)
+                    q.add(nbr);
             }
         }
-        if (ans.size()==n) 
-        {  int ans2[] = new int[n];
-           for(int i=0 ;i<n;i++)
-               {
-                ans2[n-i-1]=ans.get(i);
-               }
-            return ans2;}
-        else return new int[0];
+
+        return (idx == n) ? ans : new int[0];
     }
+
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        //create adjecency list
-        ArrayList<ArrayList<Integer>> adj =new ArrayList<>();
-        int n= numCourses;
-        int indegree[]= new int[n];
-        for(int i=0; i<n;i++)
-        {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        int[] indegree = new int[numCourses];
+
+        for (int i = 0; i < numCourses; i++)
             adj.add(new ArrayList<>());
-        } 
-        for(int[] graph : prerequisites)
-        {
-            int node = graph[0];
-            int nbr = graph[1];
-            indegree[nbr]++;
-            adj.get(node).add(nbr);
+
+        for (int[] p : prerequisites) {
+            int course = p[0];
+            int prereq = p[1];
+
+            adj.get(prereq).add(course);
+            indegree[course]++;
         }
 
-        return toposort(indegree ,adj,n);
-
+        return toposort(indegree, adj, numCourses);
     }
 }

@@ -558,6 +558,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0190-reverse-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Breadth-First Search
 |  |
 | ------- |

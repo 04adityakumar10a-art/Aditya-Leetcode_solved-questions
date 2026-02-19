@@ -228,6 +228,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0696-count-binary-substrings) |
 | [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -281,6 +282,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0295-find-median-from-data-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
 ## Math

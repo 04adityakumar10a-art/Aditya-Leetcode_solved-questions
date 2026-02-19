@@ -1,20 +1,22 @@
 class Solution {
     public int countBinarySubstrings(String s) {
-        ArrayList<Integer> ls= new ArrayList<>();
-        int count =1;
-        for(int i=0; i<s.length();i++)
-        { if(i==s.length()-1) ls.add(count);
-         else  if(s.charAt(i)==s.charAt(i+1)) count++;
-          else{
-            ls.add(count);
-            count=1;
-          }
-        }
-        int ans=0;
-        for(int i=0;i<ls.size()-1;i++)
-        {
-            ans=ans+Math.min(ls.get(i),ls.get(i+1));
-        }
-        return ans;
+       int n = s.length();
+       int curr = 1;
+       int prev = 0;
+       int sum=0;
+
+       for(int i=1; i<n; i++){
+            if(s.charAt(i)==s.charAt(i-1)){
+                curr++;
+            }else{
+               sum += Math.min(curr,prev);
+               prev = curr; 
+               curr=1;
+            }
+
+       }
+       sum += Math.min(curr,prev);
+
+       return sum; 
     }
 }

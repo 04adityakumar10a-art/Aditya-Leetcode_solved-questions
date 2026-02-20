@@ -125,6 +125,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
@@ -583,6 +584,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
@@ -675,6 +677,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -686,6 +689,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |

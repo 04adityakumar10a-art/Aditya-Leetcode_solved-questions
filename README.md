@@ -394,6 +394,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Rolling Hash
@@ -686,6 +687,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
@@ -702,6 +704,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [0210-course-schedule-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -711,5 +714,6 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->

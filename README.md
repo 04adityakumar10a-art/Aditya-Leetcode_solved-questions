@@ -300,6 +300,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0060-permutation-sequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -567,6 +568,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Breadth-First Search
 |  |
 | ------- |

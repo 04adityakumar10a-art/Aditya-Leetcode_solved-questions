@@ -121,6 +121,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -355,6 +356,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0200-number-of-islands](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
@@ -390,6 +392,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -506,6 +509,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0073-set-matrix-zeroes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
@@ -586,6 +590,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0210-course-schedule-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0547-number-of-provinces) |
@@ -675,12 +680,14 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0785-is-graph-bipartite) |
@@ -705,6 +712,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [0210-course-schedule-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |

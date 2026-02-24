@@ -13,23 +13,47 @@
  *     }
  * }
  */
+import java.util.*;
+
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
-        return dfs(root, 0);
-    }
-    
-    private int dfs(TreeNode node, int current) {
-        if (node == null) return 0;
+        if (root == null) return 0;
         
-        // Form binary number
-        current = current * 2 + node.val;
+        int sum = 0;
+        Queue<Pair> queue = new LinkedList<>();
         
-        // If leaf node, return value
-        if (node.left == null && node.right == null) {
-            return current;
+        queue.offer(new Pair(root, 0));
+        
+        while (!queue.isEmpty()) {
+            Pair p = queue.poll();
+            TreeNode node = p.node;
+            int current = p.value * 2 + node.val;
+            
+            // If leaf node
+            if (node.left == null && node.right == null) {
+                sum += current;
+            }
+            
+            if (node.left != null) {
+                queue.offer(new Pair(node.left, current));
+            }
+            
+            if (node.right != null) {
+                queue.offer(new Pair(node.right, current));
+            }
         }
         
-        // Return sum of left and right subtree
-        return dfs(node.left, current) + dfs(node.right, current);
+        return sum;
+    }
+    
+    // Helper class
+    class Pair {
+        TreeNode node;
+        int value;
+        
+        Pair(TreeNode node, int value) {
+            this.node = node;
+            this.value = value;
+        }
     }
 }

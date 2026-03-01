@@ -376,6 +376,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0840-magic-squares-in-grid) |
 | [0912-sort-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
@@ -408,6 +409,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0338-counting-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

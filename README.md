@@ -363,6 +363,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0136-single-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0239-sliding-window-maximum) |
@@ -405,6 +406,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |

@@ -388,6 +388,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
@@ -537,6 +538,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0840-magic-squares-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -656,6 +658,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |

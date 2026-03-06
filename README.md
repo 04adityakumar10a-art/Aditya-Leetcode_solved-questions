@@ -241,6 +241,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window

@@ -394,6 +394,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -546,6 +547,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer

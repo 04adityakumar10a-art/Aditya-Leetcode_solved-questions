@@ -239,6 +239,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0761-special-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0761-special-binary-string) |
 | [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
@@ -335,6 +336,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Array
 |  |
@@ -657,6 +659,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |

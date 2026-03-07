@@ -34,7 +34,7 @@ Each solution is written with:
 
 ## 📈 Progress
 
-- 🔥 Solved **100+ LeetCode Problems**
+- 🔥 Solved **200+ LeetCode Problems**
 - 🚀 Continuously adding new optimized solutions
 
 ---

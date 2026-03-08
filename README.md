@@ -210,6 +210,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -248,6 +249,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -407,6 +409,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -699,6 +702,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 ## Doubly-Linked List
 |  |
 | ------- |

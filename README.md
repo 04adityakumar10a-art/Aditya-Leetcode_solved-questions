@@ -313,6 +313,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0013-roman-to-integer](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
@@ -421,6 +422,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -792,4 +794,8 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

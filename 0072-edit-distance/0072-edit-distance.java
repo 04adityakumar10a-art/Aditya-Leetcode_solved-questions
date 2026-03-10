@@ -1,6 +1,6 @@
 class Solution {
     public int minDistance(String word1, String word2) {
-
+        if(word1.equals(word2))return 0;
         int n = word1.length();
         int m = word2.length();
 

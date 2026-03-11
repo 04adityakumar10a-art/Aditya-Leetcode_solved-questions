@@ -230,6 +230,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0076-minimum-window-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
@@ -433,6 +434,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0072-edit-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0213-house-robber-ii) |
@@ -720,6 +722,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |

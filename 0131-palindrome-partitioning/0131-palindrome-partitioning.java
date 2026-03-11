@@ -1,41 +1,46 @@
 class Solution {
 
     public List<List<String>> partition(String s) {
-        List<List<String>> res = new ArrayList<>();
-        List<String> path = new ArrayList<>();
 
-        dfs(0, s, path, res);
+        int n = s.length();
+        boolean[][] dp = new boolean[n][n];
+
+        // Precompute palindrome table
+        for(int end = 0; end < n; end++){
+            for(int start = 0; start <= end; start++){
+
+                if(s.charAt(start) == s.charAt(end) &&
+                   (end - start <= 2 || dp[start+1][end-1])){
+
+                    dp[start][end] = true;
+                }
+            }
+        }
+
+        List<List<String>> res = new ArrayList<>();
+        backtrack(0, s, dp, new ArrayList<>(), res);
 
         return res;
     }
 
-    void dfs(int start, String s, List<String> path, List<List<String>> res) {
+    void backtrack(int start, String s, boolean[][] dp,
+                   List<String> path, List<List<String>> res){
 
-        if (start == s.length()) {
+        if(start == s.length()){
             res.add(new ArrayList<>(path));
             return;
         }
 
-        for (int end = start; end < s.length(); end++) {
+        for(int end = start; end < s.length(); end++){
 
-            if (isPalindrome(s, start, end)) {
+            if(dp[start][end]){
 
                 path.add(s.substring(start, end + 1));
 
-                dfs(end + 1, s, path, res);
+                backtrack(end + 1, s, dp, path, res);
 
-                path.remove(path.size() - 1); // backtrack
+                path.remove(path.size() - 1);
             }
         }
-    }
-
-    boolean isPalindrome(String s, int l, int r) {
-        while (l < r) {
-            if (s.charAt(l) != s.charAt(r))
-                return false;
-            l++;
-            r--;
-        }
-        return true;
     }
 }

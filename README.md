@@ -64,6 +64,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
@@ -145,6 +146,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0100-same-tree) |
@@ -319,6 +321,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0062-unique-paths](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -433,6 +436,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0063-unique-paths-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0131-palindrome-partitioning) |
@@ -685,6 +689,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |

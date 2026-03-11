@@ -1,10 +1,15 @@
 class Solution {
+    int[] dp;
+
     public int numTrees(int n) {
+        dp = new int[n + 1];
         return recur(n);
     }
 
     public int recur(int n) {
         if (n <= 1) return 1;
+
+        if (dp[n] != 0) return dp[n];
 
         int ans = 0;
 
@@ -15,6 +20,6 @@ class Solution {
             ans += left * right;
         }
 
-        return ans;
+        return dp[n] = ans;
     }
 }

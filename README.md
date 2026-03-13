@@ -330,6 +330,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -426,6 +427,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
@@ -541,6 +543,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0744-find-smallest-letter-greater-than-target](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Monotonic Stack
@@ -638,6 +641,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0912-sort-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
@@ -721,6 +725,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration

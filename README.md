@@ -246,6 +246,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1143-longest-common-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -739,6 +740,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0131-palindrome-partitioning](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0494-target-sum) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 ## Doubly-Linked List
 |  |

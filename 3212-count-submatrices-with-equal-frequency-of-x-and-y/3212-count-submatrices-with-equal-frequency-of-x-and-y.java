@@ -1,73 +1,36 @@
 class Solution {
     public int numberOfSubmatrices(char[][] grid) {
-
-        int n = grid.length;
-        int m = grid[0].length;
-
-        int[][] mat = new int[n][m];
-        int[][] xcount = new int[n][m];
-
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]=='X'){
-                    mat[i][j] = 1;
-                    xcount[i][j] = 1;
-
-                }else if(grid[i][j]=='Y'){
-                    mat[i][j] = -1;
-                }else{
-                    mat[i][j] = 0;
-                }
-            }
-        }
-
-        boolean flag = true;
-
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(mat[i][j]!=0){
-                    flag = false;
-                    break;
-                }
-            }
-        }
-
-        if(flag){
-            return 0;
-        }
-
+        int m = grid.length, n = grid[0].length;
         int ans = 0;
 
+        int[][] px = new int[m][n];
+        int[][] py = new int[m][n];
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
 
-                if(i-1>=0){
-                    mat[i][j]+=mat[i-1][j];
-                    xcount[i][j]+=xcount[i-1][j];
+                px[i][j] = (grid[i][j] == 'X') ? 1 : 0;
+                py[i][j] = (grid[i][j] == 'Y') ? 1 : 0;
+
+                if (i > 0) {
+                    px[i][j] += px[i - 1][j];
+                    py[i][j] += py[i - 1][j];
+                }
+                if (j > 0) {
+                    px[i][j] += px[i][j - 1];
+                    py[i][j] += py[i][j - 1];
+                }
+                if (i > 0 && j > 0) {
+                    px[i][j] -= px[i - 1][j - 1];
+                    py[i][j] -= py[i - 1][j - 1];
                 }
 
-                if(j-1>=0){
-                    mat[i][j]+=mat[i][j-1];
-                    xcount[i][j]+=xcount[i][j-1];
-                }
-
-
-                if(i-1>=0 && j-1>=0){
-                    mat[i][j]-=mat[i-1][j-1];
-                     xcount[i][j]-=xcount[i-1][j-1];
-                }
-
-                if(mat[i][j]==0 && xcount[i][j]>0){
+                if (px[i][j] == py[i][j] && px[i][j] > 0) {
                     ans++;
                 }
             }
         }
 
         return ans;
-        
     }
 }

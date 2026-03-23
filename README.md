@@ -422,6 +422,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
@@ -472,6 +473,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1143-longest-common-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -613,6 +615,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |

@@ -23,7 +23,7 @@ class Solution {
             prefix[i] = (prefix[i - 1] * arr[i - 1]) % mod;
         }
         
-        suffix[size - 1] = 1;
+        suffix[size-1] = 1;
         for (int i = size - 2; i >= 0; i--) {
             suffix[i] = (suffix[i + 1] * arr[i + 1]) % mod;
         }

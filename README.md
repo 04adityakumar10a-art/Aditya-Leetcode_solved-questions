@@ -215,6 +215,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -441,6 +442,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
@@ -517,6 +519,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Stack
 |  |
@@ -632,6 +635,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
@@ -771,6 +775,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |

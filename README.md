@@ -370,6 +370,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0031-next-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0056-merge-intervals) |
@@ -454,6 +455,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0063-unique-paths-ii) |
@@ -768,6 +770,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |

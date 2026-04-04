@@ -1,26 +1,23 @@
 class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
-        int length = encodedText.length();
-        if (rows == 1) return encodedText;
-
-        int cols = length / rows;  // fixed (no +1)
-
-        StringBuilder original = new StringBuilder();
-
-        for (int j = 0; j < cols; j++) {
-            int i = j;
-            while (i < length) {
-                original.append(encodedText.charAt(i));
-                i += cols + 1;
-            }
-        }
-
-        // remove trailing spaces only
-        int end = original.length() - 1;
-        while (end >= 0 && original.charAt(end) == ' ') {
-            end--;
-        }
-
-        return original.substring(0, end + 1);
+       // no of cols= str.length/rows +1 
+       int length= encodedText.length();
+       int cols= (length/rows)+1;
+       if (rows==1) return encodedText;
+       int j=0;
+       int i=0;
+       StringBuilder original = new StringBuilder();
+       
+       while(original.length()<length)
+       { 
+          original.append(encodedText.charAt(i));
+          i=i+cols;
+           if(i>length-1) 
+           {
+            j++;
+            i=j;
+           }
+       }
+       return original.toString().stripTrailing();
     }
 }

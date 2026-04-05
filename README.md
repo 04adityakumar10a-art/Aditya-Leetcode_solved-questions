@@ -242,6 +242,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1143-longest-common-subsequence) |
@@ -762,6 +763,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

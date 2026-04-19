@@ -315,6 +315,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0696-count-binary-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
@@ -436,6 +437,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -580,6 +582,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0718-maximum-length-of-repeated-subarray](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |

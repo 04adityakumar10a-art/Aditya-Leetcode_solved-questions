@@ -444,6 +444,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2906-construct-product-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -793,6 +794,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |

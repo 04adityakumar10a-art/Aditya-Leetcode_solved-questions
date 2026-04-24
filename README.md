@@ -261,6 +261,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2833-furthest-point-from-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2833-furthest-point-from-origin) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -606,6 +607,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |

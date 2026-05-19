@@ -214,6 +214,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2615-sum-of-distances) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -319,6 +320,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
@@ -450,6 +452,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2906-construct-product-matrix) |
@@ -593,6 +596,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |

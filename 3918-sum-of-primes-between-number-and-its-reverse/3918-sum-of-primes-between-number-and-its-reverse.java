@@ -2,7 +2,7 @@ class Solution {
     public boolean isprime(int n)
     {   if(n<2) return false;
         int x=(int)Math.sqrt(n);
-        for(int i=2;i<=n/2;i++)
+        for(int i=2;i*i<=n;i++)
         {
             if(n%i==0) return false;
         }

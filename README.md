@@ -360,6 +360,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
@@ -533,6 +534,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Rolling Hash
 |  |
 | ------- |

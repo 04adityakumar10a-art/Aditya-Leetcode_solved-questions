@@ -327,6 +327,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1768-merge-strings-alternately](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -464,6 +465,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -819,6 +821,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Greedy

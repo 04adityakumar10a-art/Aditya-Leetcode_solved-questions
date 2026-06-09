@@ -489,6 +489,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Dynamic Programming
@@ -846,6 +847,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |

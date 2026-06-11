@@ -100,6 +100,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +359,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |

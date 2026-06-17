@@ -273,6 +273,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3120-count-the-number-of-special-characters-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -836,6 +837,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2161-partition-array-according-to-given-pivot](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3838-weighted-word-mapping) |
 ## Greedy

@@ -357,6 +357,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0840-magic-squares-in-grid) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |

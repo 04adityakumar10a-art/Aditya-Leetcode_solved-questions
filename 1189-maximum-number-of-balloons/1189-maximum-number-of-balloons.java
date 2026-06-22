@@ -1,9 +1,9 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
         int b=0,a=0,l=0,o=0,n=0;
-        for(int i =0;i<text.length();i++)
+        for( char ch : text.toCharArray())
         {
-            char ch=text.charAt(i);
+           
             if(ch=='b') b++;
             if(ch=='a') a++;
             if(ch=='l') l++;

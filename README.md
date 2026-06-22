@@ -213,6 +213,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1189-maximum-number-of-balloons](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
@@ -256,6 +257,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0696-count-binary-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1392-longest-happy-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -652,6 +654,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0169-majority-element](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |

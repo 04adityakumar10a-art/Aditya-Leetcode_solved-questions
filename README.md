@@ -368,6 +368,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -549,6 +550,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |

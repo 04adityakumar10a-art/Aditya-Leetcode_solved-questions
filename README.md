@@ -222,6 +222,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -488,6 +489,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -874,6 +876,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |

@@ -491,6 +491,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2574-left-and-right-sum-differences](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -645,6 +646,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -719,6 +721,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -769,6 +772,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0703-kth-largest-element-in-a-stream](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0912-sort-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -823,6 +827,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0994-rotting-oranges](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -968,6 +973,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort
 |  |

@@ -464,6 +464,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1200-minimum-absolute-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1288-remove-covered-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -688,6 +689,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0912-sort-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1288-remove-covered-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

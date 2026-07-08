@@ -280,6 +280,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3121-count-the-number-of-special-characters-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -380,6 +381,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Recursion
@@ -597,6 +599,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 ## Stack
 |  |

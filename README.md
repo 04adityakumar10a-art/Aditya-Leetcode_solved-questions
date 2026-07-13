@@ -899,6 +899,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |

@@ -349,6 +349,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -387,6 +388,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -522,6 +524,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3838-weighted-word-mapping](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -709,6 +712,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -871,6 +875,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3614-process-string-with-special-operations-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -1022,4 +1027,5 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

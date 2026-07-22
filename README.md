@@ -282,6 +282,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3120-count-the-number-of-special-characters-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -519,6 +520,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3312-sorted-gcd-pair-queries](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -668,6 +670,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -776,6 +779,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |

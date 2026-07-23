@@ -381,6 +381,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -521,6 +522,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -826,6 +828,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Breadth-First Search
 |  |
 | ------- |

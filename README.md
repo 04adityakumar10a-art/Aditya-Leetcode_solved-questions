@@ -278,6 +278,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2833-furthest-point-from-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -378,6 +379,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1979-find-greatest-common-divisor-of-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -923,6 +925,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2078-two-furthest-houses-with-different-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |

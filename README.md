@@ -372,6 +372,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0070-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0840-magic-squares-in-grid) |
@@ -413,6 +414,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0206-reverse-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
@@ -464,6 +466,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0416-partition-equal-subset-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0496-next-greater-element-i) |
@@ -569,6 +572,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0338-counting-bits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1071,4 +1075,8 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3312-sorted-gcd-pair-queries](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

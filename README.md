@@ -536,6 +536,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -926,6 +927,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2075-decode-the-slanted-ciphertext](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3726-remove-zeros-in-decimal-representation) |

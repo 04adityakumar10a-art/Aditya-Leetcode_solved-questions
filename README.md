@@ -536,6 +536,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -759,6 +760,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1065,6 +1067,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort

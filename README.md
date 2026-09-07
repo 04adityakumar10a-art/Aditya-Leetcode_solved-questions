@@ -269,6 +269,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0657-robot-return-to-origin](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0761-special-binary-string) |
+| [0940-distinct-subsequences-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -603,6 +604,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0718-maximum-length-of-repeated-subarray](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0940-distinct-subsequences-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1262-greatest-sum-divisible-by-three) |

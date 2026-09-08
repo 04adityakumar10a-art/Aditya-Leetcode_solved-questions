@@ -419,6 +419,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |

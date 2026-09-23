@@ -223,6 +223,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1980-find-unique-binary-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
@@ -319,6 +320,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0718-maximum-length-of-repeated-subarray](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -522,6 +524,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1582-special-positions-in-a-binary-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -654,6 +657,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0238-product-of-array-except-self](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2615-sum-of-distances) |
@@ -713,6 +717,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0744-find-smallest-letter-greater-than-target](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |

@@ -9,15 +9,12 @@ class Solution {
 
                 StringBuilder temp = new StringBuilder();
 
-                // Take characters until '('
                 while (stack.peek() != '(') {
                     temp.append(stack.pop());
                 }
 
-                // Remove '('
                 stack.pop();
-
-                // Put reversed substring back
+                
                 for (int i = 0; i < temp.length(); i++) {
                     stack.push(temp.charAt(i));
                 }

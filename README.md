@@ -546,6 +546,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2540-minimum-common-value](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -634,6 +635,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -822,6 +824,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [1727-largest-submatrix-with-rearrangements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1895-largest-magic-square) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -1144,4 +1147,5 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

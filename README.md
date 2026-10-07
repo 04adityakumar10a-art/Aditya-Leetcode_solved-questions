@@ -273,6 +273,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0151-reverse-words-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -935,6 +936,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0200-number-of-islands](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1038,6 +1040,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [0022-generate-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

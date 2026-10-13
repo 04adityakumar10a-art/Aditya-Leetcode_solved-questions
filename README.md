@@ -599,6 +599,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3689-maximum-total-subarray-value-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3771-total-score-of-dungeon-runs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3771-total-score-of-dungeon-runs) |
@@ -824,6 +825,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -1034,6 +1036,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3689-maximum-total-subarray-value-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |

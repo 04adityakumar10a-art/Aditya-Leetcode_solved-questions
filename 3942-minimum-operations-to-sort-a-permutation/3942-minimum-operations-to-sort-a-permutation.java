@@ -1,21 +1,16 @@
 class Solution {
-    public int minOperations(int[] A) {
-        int n = A.length;
-        int asc = 1, dsc = 1;
+    public int minOperations(int[] nums) {
+        int n = nums.length, shift = 0;
+        while (nums[shift] != 0) shift++;
 
-        for (int i = 1; i < n; i++) {
-            if (A[i] == (A[i - 1] + 1) % n)
-                asc++;            
-            if (A[i - 1] == (A[i] + 1) % n)
-                dsc++;
+        boolean along = true, against = true;
+        for (int k = 0; k < n && (along || against); k++) {
+            int ring = nums[(shift + k) % n];  // the circle, read from 0
+            along &= ring == k;  // counts up along the arrow
+            against &= ring == (n - k) % n;  // counts up against the arrow
         }
-
-        if (asc == n)
-            return A[0] == 0 ? 0 : Math.min(n - A[0], A[0] + 2);
-
-        if (dsc == n)
-            return Math.min(n - A[n - 1], A[n - 1]) + 1;
-
+        if (along) return Math.min(shift, n - shift + 2);  // walk ahead, or turn, walk back, turn back
+        if (against) return Math.min(shift + 2, n - shift);  // walk ahead and turn, or turn and walk back
         return -1;
     }
 }

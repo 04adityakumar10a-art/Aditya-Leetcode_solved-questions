@@ -598,6 +598,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -938,6 +939,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Breadth-First Search
 |  |
 | ------- |

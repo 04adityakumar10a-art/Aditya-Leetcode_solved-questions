@@ -444,6 +444,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -1044,6 +1045,7 @@ I focus not only on solving problems, but also on writing **maintainable, readab
 | [3691-maximum-total-subarray-value-ii](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/04adityakumar10a-art/Aditya-Leetcode_solved-questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
 | ------- |
